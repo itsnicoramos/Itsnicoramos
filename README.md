@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Nico 👋</h1>
 <p align="center">
-  Computer Science student at Vancouver Island University.<br/>
+  Computer Science transitioning to Computer Engineering  student at Vancouver Island University.<br/>
+  ourrently exploring hardware-software integration, autonomous systems, and AI powered applications <br/>
   I build where AI meets physical devices.
 </p>
 
