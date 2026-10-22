@@ -1,5 +1,7 @@
 <h1 align="center">Hey, I'm Nico 👋</h1> 
-Computer Engineering student | C++ • Embedded Systems • Robotics | Building hardware & software projects
+From Computer Science to Computer Engineering student | C++ • Embedded Systems • Robotics | Building hardware & software projects
+
+Got Passionate both software and hardware at the same time 
 
 <p align="center">
   <a href="https://itsnico.dev"><img src="https://img.shields.io/badge/itsnico.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
