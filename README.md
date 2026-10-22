@@ -1,6 +1,5 @@
-<h1 align="center">Hey, I'm Nico 👋</h1> <br/>
+<h1 align="center">Hey, I'm Nico 👋</h1> 
 Computer Engineering student | C++ • Embedded Systems • Robotics | Building hardware & software projects
-
 
 <p align="center">
   <a href="https://itsnico.dev"><img src="https://img.shields.io/badge/itsnico.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -37,14 +36,15 @@ I build spec-first. Every repo I own has a `SPEC.md` at the root, and I work wit
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### ⚡ A bit more
 
-- 🔌 Tinkering with an Arduino Uno R4 WiFi and building a robot arm
+- 🔌 Tinkering with an Arduino Uno R4 WiFi and building 
 - 🌍 I speak English, Italian, Spanish and Japanese
-- 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/nico-ramos28)
-
+- 📫 Reach me at [itsnicoramos@gmail.com](mailto:itsnicoramos@gmail.com)
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsnicoramos&show_icons=true&theme=transparent&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnicoramos&layout=compact&theme=transparent&hide_border=true" height="150" />
