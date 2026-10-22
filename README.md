@@ -1,13 +1,5 @@
-<h1 align="center">Hey, I'm Nico 👋</h1>
-<box border radius="lg" padding={3} gap={2}>
-  <row align="center" justify="between">
-    ****
-    <button size="xs" color="secondary" variant="outline" onClick={()=>GenUI.copy("Computer Engineering student | C++ • Embedded Systems • Robotics | Building hardware & software projects")}>
-      <icon name="copy" size="xs"/> Copy
-    </button>
-  </row>
-  Computer Engineering student | C++ • Embedded Systems • Robotics | Building hardware & software projects
-</box>
+<h1 align="center">Hey, I'm Nico 👋</h1> <br/>
+Computer Engineering student | C++ • Embedded Systems • Robotics | Building hardware & software projects
 
 
 <p align="center">
