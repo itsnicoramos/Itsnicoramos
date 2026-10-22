@@ -20,7 +20,6 @@ I build spec-first. Every repo I own has a `SPEC.md` at the root, and I work wit
 | Project | What it is | Stack |
 |---|---|---|
 | [**hardware-bringup**](https://github.com/itsnicoramos/Spec-to-ship) | A Claude Code skill that stops coding agents from claiming hardware works when they've never seen it. Host-tested logic, bench cards for the human, and a phone console for logging readings. In use on a 4-DOF Arduino arm. | Claude Code, Next.js, TypeScript, Supabase |
-| [**ChainMind**](https://github.com/itsnicoramos/ChainMind) | A purpose-built blockchain with a conversational AI agent as the main interface. Chat or talk to your chain to mine, send coins, and automate rules. | Python, FastAPI, SQLite, Claude API, Web Speech API |
 | [**CyberBank**](https://github.com/itsnicoramos/CyberBank) | A banking simulator: a dependency-free C++ engine with salted SHA-256 PIN hashing (written from scratch) and pluggable storage, plus a zero-dependency Node web client. | C++11, SQLite, Node.js |
 | [**Portfolio**](https://github.com/itsnicoramos/portfolio-webpage) | My personal site, live at [itsnico.dev](https://itsnico.dev). | JavaScript |
 
