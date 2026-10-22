@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nico 👋</h1> 
 From Computer Science to Computer Engineering student | Embedded Systems • Robotics | Building hardware & software projects
 
-Got Passionate both software and hardware at the same time 
+Passionate about both hardware, software and AI, with a growing interesting embedded system and robotics
 
 <p align="center">
   <a href="https://itsnico.dev"><img src="https://img.shields.io/badge/itsnico.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -39,10 +39,11 @@ I build spec-first. Every repo I own has a `SPEC.md` at the root, and I work wit
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ### ⚡ A bit more
 
-- 🔌 Tinkering with an Arduino Uno R4 WiFi and building 
+- 🔌 Tinkering with an Arduino Uno R4 WiFi and building whatever comes in mind 
 - 🌍 I speak English, Italian, Spanish and Japanese
 - 📫 Reach me at [itsnicoramos@gmail.com](mailto:itsnicoramos@gmail.com)
   
