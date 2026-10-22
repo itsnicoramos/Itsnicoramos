@@ -1,9 +1,14 @@
 <h1 align="center">Hey, I'm Nico 👋</h1>
-<p align="center">
-  Computer Science transitioning to Computer Engineering  student at Vancouver Island University.<br/>
-  ourrently exploring hardware-software integration, autonomous systems, and AI powered applications <br/>
-  I build where AI meets physical devices.
-</p>
+<box border radius="lg" padding={3} gap={2}>
+  <row align="center" justify="between">
+    ****
+    <button size="xs" color="secondary" variant="outline" onClick={()=>GenUI.copy("Computer Engineering student | C++ • Embedded Systems • Robotics | Building hardware & software projects")}>
+      <icon name="copy" size="xs"/> Copy
+    </button>
+  </row>
+  Computer Engineering student | C++ • Embedded Systems • Robotics | Building hardware & software projects
+</box>
+
 
 <p align="center">
   <a href="https://itsnico.dev"><img src="https://img.shields.io/badge/itsnico.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
