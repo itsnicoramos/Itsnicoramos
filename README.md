@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Nico 👋</h1> 
-From Computer Science to Computer Engineering student | C++ • Embedded Systems • Robotics | Building hardware & software projects
+From Computer Science to Computer Engineering student | Embedded Systems • Robotics | Building hardware & software projects
 
 Got Passionate both software and hardware at the same time 
 
